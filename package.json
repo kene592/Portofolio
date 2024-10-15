@@ -2,5 +2,8 @@
   "dependencies": {
     "framer": "^2.4.1",
     "motion": "^10.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
